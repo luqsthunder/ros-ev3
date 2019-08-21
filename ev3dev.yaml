@@ -1,15 +1,20 @@
 libconsole-bridge-dev:
   debian:
     jessie: [libconsole-bridge-dev]
+    buster: [libconsole-bridge-dev]
 python-rosdep:
   debian:
     jessie: []
+    buster: []
 sbcl:
   debian:
     jessie: []
+    buster: []
 python-rospkg:
   debian:
     jessie: []
+    buster: []
 python-catkin-pkg:
   debian:
     jessie: []
+    buster: []
