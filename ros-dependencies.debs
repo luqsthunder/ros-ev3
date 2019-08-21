@@ -22,7 +22,8 @@ packagelist=(
     libyaml-dev
     python-coverage
     python-empy
-    python-imaging
+    #python-imaging
+    python-pillow
     python-mock
     python-netifaces
     python-nose
